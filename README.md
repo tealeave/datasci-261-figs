@@ -15,3 +15,4 @@ width attribute and the report references them as `![alt](raw URL)`.
 | fig25, fig26 | entity-embedding network architecture and its two design rules |
 | fig27, fig28 | the extra-credit network against the four required families; training curves |
 | fig31, fig32 | TreeSHAP on both feature tables; the turnaround dependence plot |
+| mlp_val, xgboost_blind | MLP validation curves and the XGBoost blind threshold sweep |
